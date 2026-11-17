@@ -21,10 +21,13 @@ ObserBI is a sovereign AI CFO in a box, designed to plug into the ERP you alread
 - Outside signal: supporting agents for OSINT, GEOINT and market intelligence.
 - Decisions that are logged, explainable and auditable, with EU rules on AI in mind from the start.
 
+## For Microsoft 365
+
+- **[ObserBI for Power Platform](https://obserbi.com/microsoft-power-apps)** — a free version of ObserBI built on Microsoft Power Apps (a model-driven app) and Microsoft Dataverse, installed into your own Microsoft Power Platform environment, with the data staying there.
+- **[ObserBI Code](https://obserbi.com/microsoft-power-apps-code)** — the same data and the same process in an interface designed for ObserBI, built as a Microsoft Power Apps code app.
+
 ## Learn more
 
 - Website: https://obserbi.com
 - What is CFO software: https://obserbi.com/blog/what-is-cfo-software
 - Blog: https://obserbi.com/blog
-
-<sub>ObserBI is pre-launch: this describes the design. Public repositories will appear here when they are ready.</sub>
